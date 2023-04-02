@@ -1,5 +1,5 @@
 
-The concept of Multi-Armed Bandit and anomaly detection has been studied by many scientists. In this project, I tried to review one of the related papers, where these two methods has been combined and the authors provided their outlier definition. For more details please refer to the containing following outlines:
+The concept of Multi-Armed Bandit and anomaly detection has been studied by many scientists. In this project, I tried to review one of the related papers, where these two methods has been combined and the authors provided their outlier definition. For more details please refer to the "MAB_anomaly_detection.pdf" containing following outlines:
 1. Introduction
 	- Multi-Armed Bandit (MAB)
 	- Anomaly detection
